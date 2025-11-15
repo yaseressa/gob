@@ -1,0 +1,4 @@
+com\kq\gob\Gob\integrationtests\IntegrationTest.class
+com\kq\gob\Gob\unittests\ScannerTest.class
+com\kq\gob\Gob\unittests\ParserTest.class
+com\kq\gob\Gob\unittests\InterpreterTest.class
